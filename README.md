@@ -2,7 +2,8 @@
 *Diseño y Arquitectura de Software*
 ---
 
-# Sistema de Fabricación de Pizzas Automatizado
+# Taller 1
+## PARTE 1: Sistema de Fabricación de Pizzas Automatizado
 
 Este proyecto implementa un sistema de fabricación de pizzas automatizado utilizando el **Patrón de Fábrica Abstracta**. El sistema permite preparar pizzas de diferentes tipos (delgada, gruesa e integral) y tamaños (pequeño y mediano) de manera flexible y extensible.
 
